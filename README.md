@@ -1,4 +1,5 @@
 # Who's That Pokémon? 🎮
+**[Play the Live Game Here!](https://tawhidulislam0.github.io/pokemon-game/)**
 
 A high-stakes "Pokédex Quest" game where you must guess the names of all 1025 Pokémon in a single session.
 
@@ -27,7 +28,3 @@ The ultimate test of Pokémon knowledge. In this game, you must correctly identi
 2.  **Make Your Guess**: Type the name of the Pokémon in the input field.
 3.  **Progress**: Correct guesses increment your progress.
 4.  **Watch the Timer**: Every second counts. If the time runs out, the quest is over!
-
-## Application
-
-Live Application: https://tawhidulislam0.github.io/pokemon-game/
