@@ -28,6 +28,6 @@ The ultimate test of Pokémon knowledge. In this game, you must correctly identi
 3.  **Progress**: Correct guesses increment your progress.
 4.  **Watch the Timer**: Every second counts. If the time runs out, the quest is over!
 
-## Installation
+## Application
 
 Live Application: https://tawhidulislam0.github.io/pokemon-game/
