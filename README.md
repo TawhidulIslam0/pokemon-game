@@ -30,14 +30,4 @@ The ultimate test of Pokémon knowledge. In this game, you must correctly identi
 
 ## Installation
 
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone [YOUR_GITHUB_REPO_URL]
-
-# Install dependencies
-npm install
-
-# Start the development server
-npm start
+Live Application: https://tawhidulislam0.github.io/pokemon-game/
