@@ -4,7 +4,7 @@
 A high-stakes "Pokédex Quest" game where you must guess the names of all 1025 Pokémon in a single session.
 
 ## The Challenge
-The ultimate test of Pokémon knowledge. In this game, you must correctly identify all 1025 Pokémon without a single mistake.
+The ultimate test of Pokémon knowledge. In this game, you must correctly identify all 1025 Pokémon in a row.
 
 * **Hardcore Mode**: One wrong guess or one expired timer means the game is over, and your progress resets to zero.
 * **1025 Unique Encounters**: The game uses a randomized, non-repeating deck to ensure you face every single Pokémon exactly once per run.
