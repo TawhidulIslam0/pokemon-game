@@ -1,5 +1,4 @@
 # Who's That Pokémon? 🎮
-**[Play the Live Game Here!](https://tawhidulislam0.github.io/pokemon-game/)**
 
 A high-stakes "Pokédex Quest" game where you must guess the names of all 1025 Pokémon in a single session.
 
